@@ -32,6 +32,5 @@ footer{
 .footerButton:hover{
     color: rgb(157, 20, 20);
     font-weight: bold;
-    text-shadow: 5px 5px rgb(231, 223, 223);
-    font-size: 20px;
+    /* font-size: 20px; */
 }
